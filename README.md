@@ -1,2 +1,2 @@
 # digital-merchant
-personal blog that is for my portfolio and maarketing
+personal blog that is for my portfolio and marketing
